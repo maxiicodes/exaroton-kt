@@ -2,7 +2,7 @@
 ktor = "2.3.5"
 kotlin = "1.9.10"
 collections-immutable = "0.3.6"
-junit5 = "5.10.0"
+junit5 = "5.13.1"
 ktx-test = "1.7.3"
 
 [libraries]
