@@ -3,7 +3,7 @@ ktor = "2.3.5"
 kotlin = "1.9.10"
 collections-immutable = "0.3.6"
 junit5 = "5.10.0"
-ktx-test = "1.7.3"
+ktx-test = "1.10.2"
 
 [libraries]
 ktor-client-cio = { module = "io.ktor:ktor-client-cio-jvm", version.ref = "ktor" }
