@@ -1,6 +1,6 @@
 [versions]
 ktor = "2.3.5"
-kotlin = "1.9.10"
+kotlin = "2.3.0"
 collections-immutable = "0.3.6"
 junit5 = "5.10.0"
 ktx-test = "1.7.3"
